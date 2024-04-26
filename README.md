@@ -1,3 +1,5 @@
+Task performed during Front-End Developer Bootcamp
+
 # CSS wprowadzanie zad 1
 
 Stwórz poprawną strukturę strony, w której znajdzie się element nawigacji, main oraz stopka. Wewnątrz main dodaj tag artykułu, który zawierać będzie w sobie nagłówek pierwszego stopnia oraz paragraf. Wstaw do nich dowolny tekst. 
